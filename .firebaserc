@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "my-store-d42a0": {
+      "hosting": {
+        "my-store": [
+          "my-store-d42a0"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "my-store-d42a0"
+  }
+}
